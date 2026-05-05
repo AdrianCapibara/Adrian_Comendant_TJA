@@ -8,19 +8,13 @@ Scopul aplicației este prevenirea accidentelor cauzate de somnolență sau neat
 
 🚀 Funcționalități
 
-Autentificare utilizator (Login / Register)                                                                                                                         
+Autentificare utilizator (Login / Register)                                                                                                                        
 Monitorizare video în timp real
-
 Detectare oboseală bazată pe AI
-
 Alarmă automată în caz de risc
-
 Sistem de scor pentru fiecare cursă
-
 Istoric curse cu dată și interval orar
-
 Dark Mode în timpul condusului
-
 Interfață modernă realizată cu CustomTkinter
 
 🛠️ Tehnologii
