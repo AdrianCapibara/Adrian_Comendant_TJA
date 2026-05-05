@@ -1,12 +1,11 @@
 🚗 SafeDrive AI
 SafeDrive AI este o aplicație desktop care îmbunătățește siguranța la volan prin detectarea oboselii șoferului în timp real, folosind inteligență artificială și procesare video.
 
-📖 Descriere
-Aplicația monitorizează șoferul prin intermediul camerei și analizează comportamentul acestuia pentru a identifica semne de oboseală, cum ar fi închiderea ochilor sau lipsa de atenție a.
-Dacă oboseala este detectată pentru o perioadă mai lungă:
+📖Aplicația monitorizează șoferul prin intermediul camerei și analizează comportamentul acestuia pentru a identifica semne de oboseală, cum ar fi închiderea ochilor sau lipsa de atenție.
+Dacă semnele de oboseală sunt detectate și persistă mai mult de 5 secunde, aplicația consideră că există un risc real și:
 se declanșează o alarmă sonoră
 scorul de siguranță al cursei este redus
-Scopul aplicației este prevenirea accidentelor cauzate de somnolență sau neatenție.
+Scopul aplicației este prevenirea accidentelor cauzate de somnolență sau neatenție la volan.
 
 🚀 Funcționalități
 Autentificare utilizator (Login / Register)
@@ -39,3 +38,5 @@ SafeDrive_App.py – aplicația principală
 main.py – logica AI (detectare oboseală)
 onboarding.py – interfața de autentificare
 alarm.mp3 – sunet alarmă
+
+Acest proiect a fost realizat de către Comendant Adrian și Minchevici Lucian.
