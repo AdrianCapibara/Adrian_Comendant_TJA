@@ -7,15 +7,14 @@ scorul de siguranță al cursei este redus.
 Scopul aplicației este prevenirea accidentelor cauzate de somnolență sau neatenție la volan.
 
 🚀 Funcționalități
-
-Autentificare utilizator (Login / Register)                                                                                                                        
-Monitorizare video în timp real
-Detectare oboseală bazată pe AI
-Alarmă automată în caz de risc
-Sistem de scor pentru fiecare cursă
-Istoric curse cu dată și interval orar
-Dark Mode în timpul condusului
-Interfață modernă realizată cu CustomTkinter
+1.Autentificare utilizator (Login / Register)                                                                                                                      
+2.Monitorizare video în timp real
+3.Detectare oboseală bazată pe AI
+4.Alarmă automată în caz de risc
+5.Sistem de scor pentru fiecare cursă
+6.Istoric curse cu dată și interval orar
+7.Dark Mode în timpul condusului
+8.Interfață modernă realizată cu CustomTkinter
 
 🛠️ Tehnologii
 Python
