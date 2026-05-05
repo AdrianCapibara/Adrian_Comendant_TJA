@@ -17,12 +17,12 @@ Scopul aplicației este prevenirea accidentelor cauzate de somnolență sau neat
 8.Interfață modernă realizată cu CustomTkinter
 
 🛠️ Tehnologii
-Python
-CustomTkinter
-OpenCV
-Pygame
-Pillow
-Model AI (main.py)
+1.Python
+2.CustomTkinter
+3.OpenCV
+4.Pygame
+5.Pillow
+6.Model AI (main.py)
 
 📦 Instalare
 Instalează dependențele:
