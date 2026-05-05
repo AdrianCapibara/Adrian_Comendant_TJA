@@ -7,8 +7,9 @@ scorul de siguranță al cursei este redus.
 Scopul aplicației este prevenirea accidentelor cauzate de somnolență sau neatenție la volan.
 
 🚀 Funcționalități
-Autentificare utilizator (Login / Register)
+Autentificare utilizator (Login / Register)                                                                                                                         
 Monitorizare video în timp real
+
 Detectare oboseală bazată pe AI
 Alarmă automată în caz de risc
 Sistem de scor pentru fiecare cursă
